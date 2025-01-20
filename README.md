@@ -1,3 +1,3 @@
 # StarboyDemo
-This is my first repository
-AUthor - Ganesh Deshmukh
+This is my first repository.
+Author - Ganesh Deshmukh
